@@ -1,0 +1,29 @@
+
+
+.bgimage {
+    background-image: url('../img/earth_on_europe_by_artful_xtra.png');
+    background-position: center center;
+    background-size: cover;
+    height: 200px;
+}
+
+.icon {
+    max-width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+.services section {
+    text-align: center;
+}
+
+
+@media (min-width: 1200px) {
+    h3 {
+        margin-top: 0;
+    }
+
+    .services section {
+        text-align: left;
+    }
+}
