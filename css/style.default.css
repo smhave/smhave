@@ -126,6 +126,7 @@ section.section--no-padding {
   background: #2b90d9;
 }
 .img-responsive {
+
   margin: 0 auto;
 }
 .no-space .box {
@@ -435,6 +436,8 @@ p.social.social--big a {
 p.social.social--big i {
   line-height: 50px;
 }
+
+
 /* jumbotron */
 .main-jumbotron {
   position: relative;
